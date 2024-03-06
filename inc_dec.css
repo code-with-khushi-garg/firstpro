@@ -1,0 +1,51 @@
+*{
+    margin: 0rem;
+    padding: 0rem;
+}
+body{
+    background-color: pink;
+}
+h1{
+    text-align: center;
+    margin: 2rem;
+    margin-top: 15rem;
+}
+#box{
+    background-color: white;
+    color: black;
+    display: flex;
+    margin-left: 35rem;
+    width: 26rem;
+    height: 3rem;
+}
+#increment{
+    font-weight: 900;
+    font-size: 1.5rem;
+    border: 2px solid black;
+    height:6.6vh;
+    width: 17vw;
+    background-color: white;
+}
+#increment:hover{
+    cursor: pointer;
+}
+#input{
+    font-weight: 900;
+    font-size: 1.5rem;
+    padding-left: 5.5rem;
+    padding-top: 0.5rem;
+    border: 2px solid black;
+    height:5vh;
+    width: 17vw;
+}
+#decrement{
+    font-weight: 900;
+    font-size: 1.5rem;
+    border: 2px solid black;
+    height:6.6vh;
+    width: 17vw;
+    background-color: white;
+}
+#decrement:hover{
+    cursor: pointer;
+}
